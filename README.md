@@ -13,6 +13,6 @@ Hi! I'm  a full-stack developer with a passion for building dynamic web applicat
 - **To-Do List Application** - A task management app built using React and Spring Boot.
 
 ### Let's Connect
-- 📧 Email: [pawanjenekar99@gmail.com](mailto:pawanjenekar99@gmail.com)
+- 📧 Email: [pawansjenekar@gmail.com](mailto:pawansjenekar@gmail.com)
 - 💼 [LinkedIn Profile] (www.linkedin.com/in/pawan-jenekar)
 
