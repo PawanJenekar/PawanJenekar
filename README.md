@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pawan Jenekar 👋
 
-<!--
-**PawanJenekar/PawanJenekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Software Enthusiast
+Hi! I'm  a full-stack developer with a passion for building dynamic web applications and crafting clean, scalable solutions. I love working with modern frameworks and technologies to create impactful software.
 
-Here are some ideas to get you started:
+- 🌐 Experienced with React, Node.js, Spring Boot, and Java.
+- 💻 Proficient in building web applications, REST APIs, and microservices.
+- 🎯 Passionate about creating efficient, scalable, and clean code solutions.
+- 🌱 Currently learning more about advanced cloud solutions and deployment strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **Event Organizer Application** - A full-stack app for managing events using React and Spring Boot.
+- **To-Do List Application** - A task management app built using React and Spring Boot.
+
+### Let's Connect
+- 📧 Email: [pawanjenekar99@gmail.com](mailto:pawanjenekar99@gmail.com)
+- 💼 [LinkedIn Profile] (www.linkedin.com/in/pawan-jenekar)
+
